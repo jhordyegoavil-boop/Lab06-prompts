@@ -1,1 +1,1 @@
-Lab06-promptw
+Lab06-prompts
