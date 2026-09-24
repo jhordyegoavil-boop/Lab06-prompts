@@ -95,4 +95,4 @@ A continuación, se detalla cómo se distribuyen los cinco componentes requerido
 1. **Ambigüedad en las reglas de negocio (Ser demasiado general):** En la versión 1 la IA inventó las variables y la fórmula matemática. Se evitó en la versión final especificando los límites (rango 0-20, suma de pesos del 100% y nota de aprobación de 10.5).
 2. **Generación de respuestas con texto basura (Falta de formato):** En las primeras iteraciones la IA añadía largas introducciones conversacionales ("¡Hola! Claro, aquí tienes el código..."). Se neutralizó en la versión final delimitando taxativamente los bloques de código y restringiendo explícitamente cualquier saludo inicial.
 
-- [Tarea: mi prompt profesional](prompts/TAREA.md)
+- [Tarea: mi prompt profesional](/prompts/TAREA.md)
